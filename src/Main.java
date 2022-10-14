@@ -7,7 +7,6 @@ public class Main {
     System.out.println("Number of full Boxes: " + pelnyNasennik);
     float allNasennik = pelnyNasennik+1;
     System.out.println("Amount of Boxes: " + allNasennik);
-    // Need to continue this program
     abcNasennik = amountOfBricksNasennik%containerCapacityNasennik;
     System.out.println("Amount of pieces in Last Box: " + abcNasennik);
     }
